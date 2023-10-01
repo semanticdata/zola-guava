@@ -12,6 +12,14 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,7 +32,7 @@ jobs:
       - name: Build Zola
         run: zola build
         env:
-          BUILD_ONLY: true
+          # BUILD_ONLY: true
           BUILD_FLAGS: --drafts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload artifact
