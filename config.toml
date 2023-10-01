@@ -1,7 +1,8 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://semanticdata.github.io/zola-test"
 
-title = "dinkleberg"
+description = "Zola Test is a Zola theme."
+title = "Zola Test Site"
 compile_sass = true
 highlight_code = true
 build_search_index = false
@@ -11,9 +12,12 @@ taxonomies = [
  {name = "tags"},
 ]
 
+# [markdown]
+# highlight_code = true
+# highlight_theme = "zenburn"
 
 [extra]
-blog_title="Dinkleberg"
+blog_title="Blog Title"
 label_tags = "Tags"
 label_tag = "Tag"
 label_categories = "Categories"
@@ -31,7 +35,7 @@ og_site_name="Dinkleberg Theme" # Site Name for Open Graphic
 keywords="dinkleberg, theme, gutenberg, rust" # Keywords for SEO
 
 educational_use="knowledge share" # OPTIONAL
-copyright_year="2018" # OPTIONAL
+copyright_year="2023" # OPTIONAL
 
 
 sidebar = [

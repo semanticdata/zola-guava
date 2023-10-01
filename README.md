@@ -1,13 +1,6 @@
-![753986_1](https://user-images.githubusercontent.com/10289071/40806112-dd79ae78-64f6-11e8-8f24-63f387d5bb8f.jpg) 
+<!-- ![753986_1](https://user-images.githubusercontent.com/10289071/40806112-dd79ae78-64f6-11e8-8f24-63f387d5bb8f.jpg)  -->
 
-Rust BR Blog template for Gutenberg
-
-## Features
-- A kind of i18n for base words as: "Next", "Previous", "Pages", "Categories"
-- Blog Title and Logo on extra configurations
-- Auto-sidebar links by configuration
-- Simple design based on Medium
-- SEO using structured data and another features
+# Zola Test via Dinkleberg
 
 ## Configurations
 ```toml
