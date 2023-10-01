@@ -10,10 +10,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/main'
+    # if: github.ref != 'refs/heads/main'
     steps:
       - name: Checkout main
-        uses: actions/checkout@v3.0.0
+        uses: actions/checkout@v3
       - name: Build only 
         uses: Haru-T/zola-deploy-action@v0.16.1
         env:
@@ -21,14 +21,14 @@ jobs:
           BUILD_FLAGS: --drafts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-  build_and_deploy:
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-      - name: Checkout main
-        uses: actions/checkout@v3.0.0
-      - name: Build and deploy
-        uses: Haru-T/zola-deploy-action@v0.16.1
-        env:
-          PAGES_BRANCH: gh-pages
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # build_and_deploy:
+  #   runs-on: ubuntu-latest
+  #   if: github.ref == 'refs/heads/main'
+  #   steps:
+  #     - name: Checkout main
+  #       uses: actions/checkout@v3
+  #     - name: Build and deploy
+  #       uses: Haru-T/zola-deploy-action@v0.16.1
+  #       env:
+  #         PAGES_BRANCH: gh-pages
+  #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
