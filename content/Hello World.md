@@ -7,6 +7,7 @@ extra:
 lastmod: 2023-09-29
 taxonomies:
   tags: [placeholder]
+  categories: [Lorem]
 ---
 
 Ex est reprehenderit laboris officia duis veniam officia. Adipisicing irure eu tempor anim nisi ea consequat dolore pariatur dolore mollit excepteur ea. Et ex reprehenderit officia eiusmod fugiat. Ad nulla tempor dolore sit culpa nisi. Dolor nostrud est do mollit officia quis.

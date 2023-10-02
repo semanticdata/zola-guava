@@ -7,6 +7,7 @@ extra:
 lastmod: 2023-09-29
 taxonomies:
   tags: [placeholder]
+  categories: [Lorem]
 ---
 
 Cillum minim quis commodo dolor nisi ea aute. Laborum duis ut mollit laborum eiusmod voluptate tempor eu enim eiusmod mollit in exercitation. Esse labore nulla ullamco officia dolore laborum exercitation do eu ad labore voluptate et. Anim veniam enim elit consectetur minim est sit Lorem veniam amet.

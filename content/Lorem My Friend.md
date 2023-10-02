@@ -7,6 +7,7 @@ extra:
 lastmod: 2023-09-29
 taxonomies:
   tags: [placeholder]
+  categories: [Lorem]
 ---
 
 Velit ad culpa laborum sit eiusmod ullamco est culpa proident enim excepteur quis commodo incididunt. Qui quis aliquip enim sit elit laborum dolore qui Lorem anim ipsum anim pariatur. Veniam adipisicing nisi eiusmod cillum. Esse pariatur quis ut ex nostrud voluptate veniam culpa esse veniam.

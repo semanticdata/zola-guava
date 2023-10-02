@@ -7,6 +7,7 @@ extra:
 lastmod: 2023-09-29
 taxonomies:
   tags: [placeholder, markdown, reference]
+  categories: [Lorem]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis.

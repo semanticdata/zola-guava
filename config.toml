@@ -17,7 +17,7 @@ taxonomies = [
 # highlight_theme = "zenburn"
 
 [extra]
-blog_title="Blog Title"
+blog_title="Zola Test"
 label_tags = "Tags"
 label_tag = "Tag"
 label_categories = "Categories"
@@ -39,9 +39,19 @@ copyright_year="2023" # OPTIONAL
 
 
 sidebar = [
+    {name = "Links", urls=[
+        {name="Blog", url="https://miguelpimentel.do"},
+        {name="Digital Garden", url="https://forgetfulnotes.com"},
+    ]}
+]
+
+sidebar = [
     {name = "Social", urls=[
-        {name="Twitter", url=""},
-        {name="Facebook", url=""},
-        {name="Outro", url=""},
+        # {name="Twitter", url=""},
+        # {name="Facebook", url=""},
+        # {name="Outro", url=""},
+        {name="Github", url="https://github.com/semanticdata"},
+        {name="Instagram", url="https://instagram.com/miguelapv"},
+        {name="Linkedin", url="https://linkedin.com/miguelpimentel29"},
     ]}
 ]
