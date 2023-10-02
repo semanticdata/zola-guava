@@ -3,7 +3,7 @@ title: Hello World
 description: Ad nulla tempor dolore sit culpa nisi. Dolor nostrud est do mollit officia quis.
 date: 2023-07-30
 extra:
-  author: Me
+  author: Miguel Pimentel
 lastmod: 2023-09-29
 taxonomies:
   tags: [placeholder]

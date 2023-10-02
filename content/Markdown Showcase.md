@@ -3,7 +3,7 @@ title: Markdown Showcase
 description: Markdown Showcase page.
 date: 2023-06-06
 extra:
-  author: Me
+  author: Miguel Pimentel
 lastmod: 2023-09-29
 taxonomies:
   tags: [placeholder, markdown, reference]
