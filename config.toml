@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://semanticdata.github.io/zola-test/"
+base_url = "https://semanticdata.github.io/zola-dinkleberg/"
 
 description = "Zola Test is a Zola theme."
 title = "Zola Test Site"
