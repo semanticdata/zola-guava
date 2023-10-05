@@ -14,8 +14,6 @@ extra:
     url: "on-burning-out"
 ---
 
-# Blogging to Tame the Monkey Mind
-
 Last week, I came across Danny Guo's [Why I Blog](https://www.dannyguo.com/blog/why-i-blog) post, and it inspired me to write this.
 
 The term [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind) is a Buddhist term meaning: restless, unsettled, incontrollable. The original analogy comes from describing the human mind as being full of drunken monkeys, constantly screeching, fighting, distracting, and creating general mental chaos. I'll go over what helps _me_ keep the monkeys at bay. I hope some of this resonates with you and your monkeys as well.

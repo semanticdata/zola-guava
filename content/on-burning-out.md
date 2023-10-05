@@ -12,8 +12,6 @@ extra:
     url: "monkey-brain"
 ---
 
-# Being a Firefighter Does Not Save You From Burnout
-
 My life took a sharp turn early last year. I am a very private person. You will not find me sharing my personal life on social media. That said, these last 18 months have changed me profoundly, and I feel like I need to write these feelings down. This post's threshold of success is helping one other person navigate difficult times.
 
 Burning out is something I had little experience with. A mental image of what it looks like when you burn out was all I had. My only context coming from watching online influencers post articles/videos about how bad it can be. I never really learned what it looks like before you burn out, how you get to there, what the signs are. After three and a half years of being a volunteer firefighter, I burned out. It did not catch me by surprise; I had been struggling mentally for some time. Every day, telling myself that it would be different, that it would change. That feeling went away eventually, leaving me with too much to handle.

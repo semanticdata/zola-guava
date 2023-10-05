@@ -2,7 +2,6 @@ base_url = "https://semanticdata.github.io/zola-dinkleberg/"
 description = "Zola Test is a Zola theme."
 title = "Zola Test Site"
 compile_sass = true
-highlight_code = true
 build_search_index = false
 
 taxonomies = [{ name = "categories" }, { name = "tags" }]

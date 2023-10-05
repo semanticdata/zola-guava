@@ -12,7 +12,7 @@ extra:
   #   url: ""
 ---
 
-# Unlock the Sidebar Width in Firefox
+This post will guide you through unlocking the sidebar width in Firefox. It will let you resize it beyond what is possible by default. We will be setting both the maximum, and the minimum width. You will have a chance to customize these values once at the right step.
 
 ## Why Would Anyone Want to Do This?
 
@@ -29,15 +29,17 @@ extra:
 6. Copy the following code, paste as content and save:[^2]
 
 ```css
-/* You may change the units to any length you find more convenient. */
+/* Change length units to preference. Careful you don't make it too small */
 #sidebar-box {
   max-width: 40% !important;
-  min-width: 300px !important; /* careful you don't make it too small */
+  min-width: 300px !important;
 }
 ```
 
 7. Finally, in a new tab, navigate to `about:config` and search for `toolkit.legacyUserProfileCustomizations.stylesheets` and change it to `true`.
 8. Restart Firefox and test it out!
 
-[^1]: `%appdata%` is equivalent to `C:\Users\{username}\AppData\Roaming`
+---
+<span></span>
+[^1]: In Windows, `%appdata%` is equivalent to `C:\Users\{username}\AppData\Roaming`  
 [^2]: After Firefox 107, `#sidebar` was deprecated, and `#sidebar-box` was introduced.
