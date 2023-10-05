@@ -1,13 +1,15 @@
 ---
-title: Markdown Showcase
-description: Markdown Showcase page.
-date: 2023-06-06
-extra:
-  author: Miguel Pimentel
-lastmod: 2023-09-29
+title: "Markdown Showcase"
+description: "Markdown Showcase page."
+date: 2022-06-06
 taxonomies:
   tags: [placeholder, markdown, reference]
-  categories: [Lorem]
+  categories: ["Placeholder"]
+extra:
+  author: Miguel Pimentel
+  # relative_posts:
+  # - label: ""
+  #   url: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis.

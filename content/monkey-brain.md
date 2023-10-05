@@ -1,11 +1,19 @@
 ---
-title: Blogging to Tame the Monkey Mind
+title: "Blogging to Tame the Monkey Mind"
+description: "The original analogy comes from describing the human mind as being full of drunken monkeys, constantly screeching, fighting, distracting, and creating general mental chaos. I'll go over what helps me keep the monkeys at bay. I hope some of this resonates with you and your monkeys as well."
 date: 2023-04-12
-tags: ["mental-health"]
-compartir: false
+taxonomies:
+  tags: ["blogging", "mental-health"]
+  categories: ["Mental Health"]
 extra:
   author: Miguel Pimentel
+  relative_posts:
+  - label: "Hello World!"
+    url: "hello-world"
+  - label: "Being a Firefighter Does Not Save You From Burnout"
+    url: "on-burning-out"
 ---
+
 # Blogging to Tame the Monkey Mind
 
 Last week, I came across Danny Guo's [Why I Blog](https://www.dannyguo.com/blog/why-i-blog) post, and it inspired me to write this.

@@ -6,5 +6,5 @@ min_version = "0.1.0"
 demo = "https://semanticdata.github.io/zola-test"
 
 [author]
-name = "Migue Pimentel"
+name = "Miguel Pimentel"
 homepage = "https://github.com/semanticdata"

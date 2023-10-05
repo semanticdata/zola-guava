@@ -1,13 +1,17 @@
 ---
 title: Unlock the Sidebar Width in Firefox
-date: 2023-06-26
 description: How-to guide about unlocking the max-width of Firefox's sidebar. Doing so net's you a better experience when using extensions within the sidebar.
-categories: [guide, tutorial]
-tags: [firefox, how-to]
-compartir: false
+date: 2023-06-26
+taxonomies:
+  categories: [guide, tutorial]
+  tags: [firefox, how-to]
 extra:
   author: Miguel Pimentel
+  # relative_posts:
+  # - label: ""
+  #   url: ""
 ---
+
 # Unlock the Sidebar Width in Firefox
 
 ## Why Would Anyone Want to Do This?

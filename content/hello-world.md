@@ -1,11 +1,17 @@
 ---
 title: "Hello World!"
+description: "This must be the fourth time I have started a blog. I haven't been very successful at being a consistent content producer. That changes today. I made a promise I can't break. I have made a real commitment to someone in my life, who I rather not disappoint."
 date: 2023-03-18
-tags: ["blogging"]
-compartir: false
+taxonomies:
+  tags: ["blogging"]
+  categories: ["Meta"]
 extra:
   author: Miguel Pimentel
+  relative_posts:
+  - label: "Blogging to Tame the Monkey Mind"
+    url: "monkey-brain"
 ---
+
 # Hello World
 
 This must be the fourth time I have started a blog. I haven't been very successful at being a consistent content producer. That changes today. I made a promise I can't break. I have made a real commitment to someone in my life, who I rather not disappoint.

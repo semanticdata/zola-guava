@@ -1,11 +1,17 @@
 ---
-title: Being a Firefighter Does Not Save You From Burnout
+title: "Being a Firefighter Does Not Save You From Burnout"
+description: "My life took a sharp turn early last year. I am a very private person. The last 18 months have changed me profoundly, and I feel like I need to write these feelings down."
 date: 2023-07-06
-tags: ["burnout"]
-compartir: false
+taxonomies:
+  tags: ["burnout", "mental-health"]
+  categories: ["Mental Health"]
 extra:
   author: Miguel Pimentel
+  relative_posts:
+  - label: "Blogging to Tame the Monkey Mind"
+    url: "monkey-brain"
 ---
+
 # Being a Firefighter Does Not Save You From Burnout
 
 My life took a sharp turn early last year. I am a very private person. You will not find me sharing my personal life on social media. That said, these last 18 months have changed me profoundly, and I feel like I need to write these feelings down. This post's threshold of success is helping one other person navigate difficult times.

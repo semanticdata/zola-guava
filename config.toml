@@ -1,6 +1,4 @@
-# The URL the site will be built for
 base_url = "https://semanticdata.github.io/zola-dinkleberg/"
-
 description = "Zola Test is a Zola theme."
 title = "Zola Test Site"
 compile_sass = true
@@ -9,12 +7,12 @@ build_search_index = false
 
 taxonomies = [{ name = "categories" }, { name = "tags" }]
 
-# [markdown]
-# highlight_code = true
-# highlight_theme = "zenburn"
+[markdown]
+highlight_code = true
+highlight_theme = "zenburn"
 
 [extra]
-blog_title = "Zola Test"
+blog_title = "Zola Dinkleberg"
 label_tags = "Tags"
 label_tag = "Tag"
 label_categories = "Categories"
@@ -26,27 +24,23 @@ label_page = "Page"
 label_of = "of"
 label_minutes = "minutes"
 
-og_image = "https://user-images.githubusercontent.com/10289071/40806112-dd79ae78-64f6-11e8-8f24-63f387d5bb8f.jpg" # Image that will appear on social media
-og_alt_image = "Gotcha dinkleberg"                                                                                # Alt for og_image
-og_site_name = "Dinkleberg Theme"                                                                                 # Site Name for Open Graphic
-keywords = "dinkleberg, theme, gutenberg, rust"                                                                   # Keywords for SEO
+og_image = "https://raw.githubusercontent.com/semanticdata/public-test/main/PNG/myfinalform.png" # Image that will appear on social media
+og_alt_image = "My final form."
+og_site_name = "Zola Dinkleberg"
+keywords = "dinkleberg, theme, rust, zola"
 
 educational_use = "knowledge share" # OPTIONAL
 copyright_year = "2023"             # OPTIONAL
 
-
 sidebar = [
-    {name = "Links", urls=[
-        {name="Blog", url="https://miguelpimentel.do"},
-        {name="Digital Garden", url="https://forgetfulnotes.com"},
-    ]},
-
-    {name = "Social", urls=[
-        # {name="Twitter", url=""},
-        # {name="Facebook", url=""},
-        # {name="Outro", url=""},
-        {name="Github", url="https://github.com/semanticdata"},
-        {name="Instagram", url="https://instagram.com/miguelapv"},
-        {name="Linkedin", url="https://linkedin.com/miguelpimentel29"},
-    ]}
+    { name = "Links", urls = [
+        { name = "Blog", url = "https://miguelpimentel.do" },
+        { name = "Digital Garden", url = "https://forgetfulnotes.com" },
+        { name = "Source", url = "https://github.com/semanticdata/zola-dinkleberg" },
+    ] },
+    { name = "Social", urls = [
+        { name = "GitHub", url = "https://github.com/semanticdata" },
+        { name = "Instagram", url = "https://instagram.com/miguelapv" },
+        { name = "Linkedin", url = "https://linkedin.com/miguelpimentel29" },
+    ] },
 ]
