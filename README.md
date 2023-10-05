@@ -2,6 +2,20 @@
 
 # Zola Test via Dinkleberg
 
+## Features
+
+Zola Dinkleberg is based on [rust-br/dinkleberg](https://github.com/rust-br/dinkleberg). The aim of the project is to revive what is a beautiful theme. That said, I have added the following:
+
+* Refactored color styles. Makes it easier to cusotmize the site.
+* Made different Typography choices. Big change to `line height`.
+* Justified post contents without affecting titles.
+* Fixed codeblocks line height and border issues.
+* Changed code highlighting theme to `zenburn`.
+* Added additional nav section for external *Links* alongside *Social* links.
+* Addressed Issue [#2](https://github.com/rust-br/dinkleberg/issues/2). Fixed mobile version. No longer broken.
+* Addressed Issue [#12](https://github.com/rust-br/dinkleberg/issues/12). Fixed `config.toml` by adding `label_minutes`. Would not build before.
+* Addressed Issue [#13](https://github.com/rust-br/dinkleberg/issues/13). Fixed code padding.
+
 ## Configurations
 
 ```toml
