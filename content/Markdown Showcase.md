@@ -1,6 +1,6 @@
 ---
-title: "Markdown Showcase"
-description: "Markdown Showcase page."
+title: Markdown Showcase
+description: Markdown Showcase page.
 date: 2022-06-06
 taxonomies:
   tags: [placeholder, markdown, reference]

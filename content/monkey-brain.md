@@ -1,5 +1,5 @@
 ---
-title: "Blogging to Tame the Monkey Mind"
+title: Blogging to Tame the Monkey Mind
 description: "The original analogy comes from describing the human mind as being full of drunken monkeys, constantly screeching, fighting, distracting, and creating general mental chaos. I'll go over what helps me keep the monkeys at bay. I hope some of this resonates with you and your monkeys as well."
 date: 2023-04-12
 taxonomies:
@@ -8,9 +8,9 @@ taxonomies:
 extra:
   author: Miguel Pimentel
   relative_posts:
-  - label: "Hello World!"
+  - label: Hello World!
     url: "hello-world"
-  - label: "Being a Firefighter Does Not Save You From Burnout"
+  - label: Being a Firefighter Does Not Save You From Burnout
     url: "on-burning-out"
 ---
 

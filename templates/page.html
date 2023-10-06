@@ -16,6 +16,7 @@
             <meta itemprop="image" content="{{config.extra.og_image}}">
         {% endif %}
     {% endif %}
+
     <header>
         {% if page.taxonomies.categories %}
             <a  class="category" href="{{ get_taxonomy_url(kind="categories", name=page.taxonomies.categories[0]) }}">
@@ -33,11 +34,7 @@
                     <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">{{ tag }}</a>
                     {% if page.taxonomies.tags | length > 1 %}
                         {% if loop.index != page.taxonomies.tags | length %}
-                            {% if loop.index == page.taxonomies.tags | length - 1 %}
-                                e
-                            {% else %}
-                                ,
-                            {% endif %}
+                            {% if loop.index == page.taxonomies.tags | length - 1 %}|{% else %}•{% endif %}
                         {% endif %}
                     {% endif %}
                 {% endfor %}
@@ -48,8 +45,7 @@
                     {{config.extra.label_relative_posts}}:
                     <ul class="base-list">
                         {% for relative in page.extra.relative_posts %}
-                            <li>
-                                - <a href="{{config.base_url}}{{relative.url}}">{{relative.label}}</a>
+                            <li>• <a href="{{config.base_url}}{{relative.url}}">{{relative.label}}</a>
                             </li>
                         {% endfor %}
                     </ul>
@@ -57,6 +53,7 @@
             {% endif %}
         </div>
     </header>
+    
     <div itemprop="articleBody" class="body">
       {{ page.content | safe }}
     </div>
