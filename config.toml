@@ -1,4 +1,4 @@
-base_url = "https://semanticdata.github.io/zola-dinkleberg/"
+base_url = "https://miguelpimentel.do/zola-dinkleberg/"
 description = "Zola Test is a Zola theme."
 title = "Zola Test Site"
 compile_sass = true
