@@ -16,6 +16,10 @@ Zola Dinkleberg is based on [rust-br/dinkleberg](https://github.com/rust-br/dink
 * Addressed Issue [#12](https://github.com/rust-br/dinkleberg/issues/12). Fixed `config.toml` by adding `label_minutes`. Would not build before.
 * Addressed Issue [#13](https://github.com/rust-br/dinkleberg/issues/13). Fixed code padding.
 
+## Screenshots
+
+<img alt="Website Screenshot" src="screenshot.png" width="720px" />
+
 ## Configurations
 
 ```toml
