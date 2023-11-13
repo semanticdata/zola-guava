@@ -1,6 +1,10 @@
 <!-- ![753986_1](https://user-images.githubusercontent.com/10289071/40806112-dd79ae78-64f6-11e8-8f24-63f387d5bb8f.jpg)  -->
 
-# Zola Test via Dinkleberg
+# Zola Dinkleberg
+
+## Introduction
+
+Originally this repository was meant to help test new Zola workflows and deployments. Now it only serves as inspiration for web design as I no longer plan to actively develop it.
 
 ## Features
 
@@ -62,9 +66,3 @@ sidebar = [
 ]
 
 ```
-
-This configuration was the same configuration that we use on [RustBR Blog](https://rust-br.github.io/blog)
-
-### Favicons and other stuff
-
-By default Dinkleberg wait that you have all icons on root of your static, for it you can use the site [https://www.favicon-generator.org/](https://www.favicon-generator.org/) to generate that bundle and put it inside you `/static` :D
