@@ -1,5 +1,4 @@
-**⚠ This repo is not being developed. It only serves as web design inspiration. ⚠**
-
+<h3 align=center>⚠ Development of this project has been paused. That might change in the future. ⚠</h3>
 <!-- ![753986_1](https://user-images.githubusercontent.com/10289071/40806112-dd79ae78-64f6-11e8-8f24-63f387d5bb8f.jpg)  -->
 
 # Zola Dinkleberg
