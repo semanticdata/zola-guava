@@ -1,14 +1,16 @@
 base_url = "https://miguelpimentel.do/zola-dinkleberg/"
-description = "Zola Test is a Zola theme."
 title = "Zola Test Site"
-compile_sass = true
-build_search_index = false
+description = "Zola Test is a Zola theme."
 
+compile_sass = true
+generate_feed = true
+minify_html = true
+build_search_index = false
 taxonomies = [{ name = "categories" }, { name = "tags" }]
 
 [markdown]
 highlight_code = true
-highlight_theme = "zenburn"
+# highlight_theme = "zenburn"
 
 [extra]
 blog_title = "Zola Dinkleberg"

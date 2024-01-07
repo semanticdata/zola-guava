@@ -8,3 +8,8 @@ demo = "https://semanticdata.github.io/zola-test"
 [author]
 name = "Miguel Pimentel"
 homepage = "https://github.com/semanticdata"
+
+[original]
+author = "rust-br"
+homepage = "https://github.com/rust-br"
+repo = "https://github.com/rust-br/dinkleberg"
