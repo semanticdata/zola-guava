@@ -1,11 +1,11 @@
 <h1 align="center">Zola Dinkleberg</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/semanticdata/mabuya" />
-  <img src="https://img.shields.io/github/repo-size/semanticdata/mabuya" />
-  <img src="https://img.shields.io/github/commit-activity/t/semanticdata/mabuya" />
-  <img src="https://img.shields.io/github/last-commit/semanticdata/mabuya" />
-  <img src="https://img.shields.io/website/https/semanticdata.github.io/mabuya.svg" />
+  <img src="https://img.shields.io/github/languages/code-size/semanticdata/zola-dinkleberg" />
+  <img src="https://img.shields.io/github/repo-size/semanticdata/zola-dinkleberg" />
+  <img src="https://img.shields.io/github/commit-activity/t/semanticdata/zola-dinkleberg" />
+  <img src="https://img.shields.io/github/last-commit/semanticdata/zola-dinkleberg" />
+  <img src="https://img.shields.io/website/https/semanticdata.github.io/zola-dinkleberg.svg" />
 </p>
 
 > This repository/theme will be renamed soon.
@@ -87,9 +87,9 @@ Before using the theme, you need to install [Zola](https://www.getzola.org/docum
 
 ```bash
 # clone the repo
-git clone git@github.com:semanticdata/mabuya.git
+git clone git@github.com:semanticdata/zola-dinkleberg.git
 # change directory into the cloned folder
-cd mabuya
+cd zola-dinkleberg
 # serve the site locally
 zola serve
 # open http://127.0.0.1:1111/ in the browser
@@ -117,11 +117,11 @@ Adding custom CSS is as easy as adding your styles to `sass/_custom.scss`. This 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for **Mabuya**. Please
-search [existing issues](https://github.com/semanticdata/mabuya/issues). It’s
+We use GitHub Issues as the official bug tracker for **Dinkleberg**. Please
+search [existing issues](https://github.com/semanticdata/zola-dinkleberg/issues). It’s
 possible someone has already reported the same problem.
 
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/mabuya/issues/new).
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/zola-dinkleberg/issues/new).
 
 ## Contributing
 
@@ -130,8 +130,6 @@ We'd love your help! Please see [CONTRIBUTING](./CONTRIBUTING.md) to learn about
 Please read and be aware of the [Code of Conduct](.github/CODE_OF_CONDUCT.md) before conttributing.
 
 ## Acknowledgements and Attributions
-
-Mabuya is a fork of [Tale](https://github.com/aaranxu/tale-zola), which is a port of the Jekyll theme [Tale](https://github.com/chesterhow/tale)—a now Archived repository.
 
 The icons used throughout the site are kindly provided by [UXWing](https://uxwing.com/license/). Read their [license](https://uxwing.com/license/).
 
