@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/website/https/semanticdata.github.io/zola-guava.svg" />
 </p>
 
-> This repository/theme will be renamed soon.
-
 ## Introduction
 
 Zola Guava is based on [rust-br/dinkleberg](https://github.com/rust-br/dinkleberg). The aim of the project is to revive what is a beautiful theme. That said, I have added the following:
