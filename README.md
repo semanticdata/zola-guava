@@ -1,22 +1,18 @@
-<h1 align="center">Zola Dinkleberg</h1>
+<h1 align="center">Zola Guava</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/semanticdata/zola-dinkleberg" />
-  <img src="https://img.shields.io/github/repo-size/semanticdata/zola-dinkleberg" />
-  <img src="https://img.shields.io/github/commit-activity/t/semanticdata/zola-dinkleberg" />
-  <img src="https://img.shields.io/github/last-commit/semanticdata/zola-dinkleberg" />
-  <img src="https://img.shields.io/website/https/semanticdata.github.io/zola-dinkleberg.svg" />
+  <img src="https://img.shields.io/github/languages/code-size/semanticdata/zola-guava" />
+  <img src="https://img.shields.io/github/repo-size/semanticdata/zola-guava" />
+  <img src="https://img.shields.io/github/commit-activity/t/semanticdata/zola-guava" />
+  <img src="https://img.shields.io/github/last-commit/semanticdata/zola-guava" />
+  <img src="https://img.shields.io/website/https/semanticdata.github.io/zola-guava.svg" />
 </p>
 
 > This repository/theme will be renamed soon.
 
 ## Introduction
 
-Originally this repository was meant to help test new Zola workflows and deployments. Now it only serves as inspiration for web design as I no longer plan to actively develop it.
-
-## Features
-
-Zola Dinkleberg is based on [rust-br/dinkleberg](https://github.com/rust-br/dinkleberg). The aim of the project is to revive what is a beautiful theme. That said, I have added the following:
+Zola Guava is based on [rust-br/dinkleberg](https://github.com/rust-br/dinkleberg). The aim of the project is to revive what is a beautiful theme. That said, I have added the following:
 
 * Refactored color styles. Makes it easier to cusotmize the site.
 * Made different Typography choices. Big change to `line height`.
@@ -37,7 +33,7 @@ Zola Dinkleberg is based on [rust-br/dinkleberg](https://github.com/rust-br/dink
 ```toml
 [extra]
 blog_logo="/imgs/common/logo.png" #will appear on top header
-blog_title="rust::br::Blog" #will appear on top header after logo
+blog_title="My Blog" #will appear on top header after logo
 
 ## i18n words
 label_tags = "Tags"
@@ -87,9 +83,9 @@ Before using the theme, you need to install [Zola](https://www.getzola.org/docum
 
 ```bash
 # clone the repo
-git clone git@github.com:semanticdata/zola-dinkleberg.git
+git clone git@github.com:semanticdata/zola-guava.git
 # change directory into the cloned folder
-cd zola-dinkleberg
+cd zola-guava
 # serve the site locally
 zola serve
 # open http://127.0.0.1:1111/ in the browser
@@ -117,11 +113,11 @@ Adding custom CSS is as easy as adding your styles to `sass/_custom.scss`. This 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for **Dinkleberg**. Please
-search [existing issues](https://github.com/semanticdata/zola-dinkleberg/issues). It’s
+We use GitHub Issues as the official bug tracker for **Guava**. Please
+search [existing issues](https://github.com/semanticdata/zola-guava/issues). It’s
 possible someone has already reported the same problem.
 
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/zola-dinkleberg/issues/new).
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/zola-guava/issues/new).
 
 ## Contributing
 

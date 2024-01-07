@@ -1,6 +1,6 @@
-base_url = "https://miguelpimentel.do/zola-dinkleberg/"
-title = "Zola Test Site"
-description = "Zola Test is a Zola theme."
+base_url = "https://miguelpimentel.do/zola-guava/"
+title = "Zola Guava"
+description = "Guava is a Zola theme."
 
 compile_sass = true
 generate_feed = true
@@ -13,7 +13,7 @@ highlight_code = true
 # highlight_theme = "zenburn"
 
 [extra]
-blog_title = "Zola Dinkleberg"
+blog_title = "Guava"
 label_tags = "Tags"
 label_tag = "Tag"
 label_categories = "Categories"
@@ -27,8 +27,8 @@ label_minutes = "minutes"
 
 og_image = "https://raw.githubusercontent.com/semanticdata/public-test/main/PNG/myfinalform.png" # Image that will appear on social media
 og_alt_image = "My final form."
-og_site_name = "Zola Dinkleberg"
-keywords = "dinkleberg, theme, rust, zola"
+og_site_name = "Zola Guava"
+keywords = "guava, theme, rust, zola"
 
 educational_use = "knowledge share" # OPTIONAL
 copyright_year = "2023"             # OPTIONAL
@@ -37,7 +37,7 @@ sidebar = [
     { name = "Links", urls = [
         { name = "Blog", url = "https://miguelpimentel.do" },
         { name = "Digital Garden", url = "https://forgetfulnotes.com" },
-        { name = "Source", url = "https://github.com/semanticdata/zola-dinkleberg" },
+        { name = "Source", url = "https://github.com/semanticdata/zola-guava" },
     ] },
     { name = "Social", urls = [
         { name = "GitHub", url = "https://github.com/semanticdata" },
