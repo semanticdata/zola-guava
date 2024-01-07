@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/repo-size/semanticdata/zola-guava" />
   <img src="https://img.shields.io/github/commit-activity/t/semanticdata/zola-guava" />
   <img src="https://img.shields.io/github/last-commit/semanticdata/zola-guava" />
-  <img src="https://img.shields.io/website/https/semanticdata.github.io/zola-guava.svg" />
+  <img src="https://img.shields.io/website/https/miguelpimentel.do/zola-guava.svg" />
 </p>
 
 ## Introduction
