@@ -1,4 +1,4 @@
-<h1 align="center">Zola Guava</h1>
+<h1 align="center">🍈 Guava</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/code-size/semanticdata/zola-guava" />
@@ -10,7 +10,11 @@
 
 ## Introduction
 
-Zola Guava is based on [rust-br/dinkleberg](https://github.com/rust-br/dinkleberg). The aim of the project is to revive what is a beautiful theme. That said, I have added the following:
+Zola Guava is based on [rust-br/dinkleberg](https://github.com/rust-br/dinkleberg). The aim of the project is to revive what is a beautiful theme.
+
+Checkout the live [demo](https://miguelpimentel.do/zola-guava/) of the theme.
+
+## Features and Improvements
 
 * Refactored color styles. Makes it easier to cusotmize the site.
 * Made different Typography choices. Big change to `line height`.
