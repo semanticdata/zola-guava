@@ -1,14 +1,12 @@
-<h1 align="center">🍈 Guava</h1>
+# 🍈 Guava
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/github/languages/code-size/semanticdata/zola-guava" />
   <img src="https://img.shields.io/github/repo-size/semanticdata/zola-guava" />
   <img src="https://img.shields.io/github/commit-activity/t/semanticdata/zola-guava" />
   <img src="https://img.shields.io/github/last-commit/semanticdata/zola-guava" />
   <img src="https://img.shields.io/website/https/miguelpimentel.do/zola-guava.svg" />
 </p>
-
-## Introduction
 
 Zola Guava is based on [rust-br/dinkleberg](https://github.com/rust-br/dinkleberg). The aim of the project is to revive what is a beautiful theme.
 
@@ -113,20 +111,6 @@ You can changed the configuration, templates and content yourself. Refer to the 
 
 Adding custom CSS is as easy as adding your styles to `sass/_custom.scss`. This is made possible because SCSS files are backwards compatible with CSS. This means you can type normal CSS code into a SCSS file and it will be valid.
 
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for **Guava**. Please
-search [existing issues](https://github.com/semanticdata/zola-guava/issues). It’s
-possible someone has already reported the same problem.
-
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/semanticdata/zola-guava/issues/new).
-
-## Contributing
-
-We'd love your help! Please see [CONTRIBUTING](./CONTRIBUTING.md) to learn about the kinds of contributions we're looking for.
-
-Please read and be aware of the [Code of Conduct](.github/CODE_OF_CONDUCT.md) before conttributing.
-
 ## Acknowledgements and Attributions
 
 The icons used throughout the site are kindly provided by [UXWing](https://uxwing.com/license/). Read their [license](https://uxwing.com/license/).
@@ -135,4 +119,4 @@ Other icons used come from [Remix Icon](https://remixicon.com/). Check out their
 
 ## License
 
-Source code in this repository is available under the [MIT](LICENSE) license. You are free to use this code however you like. That said, some acknowledgement would be well received.
+Source code in this repository is available under the [MIT License](LICENSE).
